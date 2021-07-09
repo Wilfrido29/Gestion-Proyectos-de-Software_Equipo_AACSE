@@ -1,5 +1,6 @@
 # Reto_Master_1
 **Este primer reto es dedicado para la primera semana del viaje en innovación, tratando los fundamentos, los conceptos básicos de AZURE**.
+este apartado se irá actualizando conforme se avance las semanas. Un saludo 😉
 
 ![Logo_azure](/imagenes/cloud-computing-azure-00.jpg)
 
@@ -34,7 +35,9 @@ Y recurrimos a la compra de toda esa infraestructura, se compra recursos como **
 al principio no es tanto problema, pero cuando la empresa va creciendo cada vez más y más, se necesita mayor infraestructura tanto a nivel hardware como software y los gastos 
 en equipo son muy elevados y es ahi donde se queda estancado, y no se puede soportar la demanda de solicitud por parte de los usuarios.
 
-Es por ello que **Azure** llega como una solución a todos esos problemas, si bien fisicamente no se puede crecer por los costos en hardware, pero podemos hacer que toda esa infraestructura llegue a la nube mediante la gran variedad de servicios que azure provee.
+Es por ello que **Azure** llega como una solución a todos esos problemas, si bien fisicamente no se puede crecer por los costos en hardware, pero podemos hacer que toda esa infraestructura llegue a la nube mediante la gran variedad de servicios que azure provee. Estos servicios se organizan por categorias las cuales veremos a continuación.
+
+## Servicios de **Azure** por categoria
 
 
 
