@@ -1,4 +1,4 @@
-# Reto_AZURE_FUNDAMENTALS
+# Reto_AZURE_FUNDAMENTALS SEMANA 1 🎉✈
 **Este primer reto es dedicado para la primera semana del viaje en innovación, tratando los fundamentos, los conceptos básicos de AZURE**.
 este apartado se irá actualizando conforme se avance las semanas. Un saludo 😉
 
