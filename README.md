@@ -1,4 +1,4 @@
-# Reto_Master_1
+# Reto_AZURE_FUNDAMENTALS
 **Este primer reto es dedicado para la primera semana del viaje en innovación, tratando los fundamentos, los conceptos básicos de AZURE**.
 este apartado se irá actualizando conforme se avance las semanas. Un saludo 😉
 
@@ -37,7 +37,17 @@ en equipo son muy elevados y es ahi donde se queda estancado, y no se puede sopo
 
 Es por ello que **Azure** llega como una solución a todos esos problemas, si bien fisicamente no se puede crecer por los costos en hardware, pero podemos hacer que toda esa infraestructura llegue a la nube mediante la gran variedad de servicios que azure provee. Estos servicios se organizan por categorias las cuales veremos a continuación.
 
-## Servicios de **Azure** por categoria
+## Servicios de Azure  por categoria
+
+- [Servicios de procesos]()
+- [Servicios de red]()
+- [Servicios de almacenamiento]()
+- [Servicios de base de datos]()
+- [Servicios WEB]()
+- [Servicios Moviles]()
+- [Internet de las cosas]()
+- [Inteligencia Artificial]()
+- [DevOps]()
 
 
 
