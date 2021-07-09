@@ -19,6 +19,24 @@ en la nube vamos a conocer a **Microsoft Azure**.
 
 ## Microsoft Azure
 
+![Logo_azures](/imagenes/curso_capacitacion.png)
+
+Vamos a adentrarnos al mundo de microsoft azure, pero para entender mejor, **¿Qué es Microsoft Azure?**
+
+Azure es el conjunto de varios servicios, como hablabamos en la parte de la **informatica en la nube** que es la proporción de servicios, entonces Azure es eso.
+varios servicios en la nube a disposición de los usuarios, empresas ya sean grandes, medianas y pequeñas. Esto con el fin de llevar un buen manejo a nivel tecnológico de los mismos.
+Azure da la oportunidad de crecer a gran escala y sin tener un coste alto, ya que solo se paga por el uso del servicio. 
+
+## ¿Por qué usar Azure?
+
+Bueno, supongamos que estamos iniciando una empresa pequeña y requerimos de infraestructura tecnológica para llevar el almacenamiento de información, publicidad, etc. 
+Y recurrimos a la compra de toda esa infraestructura, se compra recursos como **servidores**, **equipos de computo**, **una infraestrucura de red**,
+al principio no es tanto problema, pero cuando la empresa va creciendo cada vez más y más, se necesita mayor infraestructura tanto a nivel hardware como software y los gastos 
+en equipo son muy elevados y es ahi donde se queda estancado, y no se puede soportar la demanda de solicitud por parte de los usuarios.
+
+Es por ello que **Azure** llega como una solución a todos esos problemas, si bien fisicamente no se puede crecer por los costos en hardware, pero podemos hacer que toda esa infraestructura llegue a la nube mediante la gran variedad de servicios que azure provee.
+
+
 
 
 
