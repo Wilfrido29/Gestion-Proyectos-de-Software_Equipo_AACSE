@@ -1,4 +1,4 @@
-# Proceso
+# Procesos
 Los servicios de proceso a menudo son una de las razones principales de por qué las compañías se cambian a la plataforma Azure. Azure proporciona una amplia gama de opciones para hospedar aplicaciones y servicios. Estos son algunos ejemplos de servicios de proceso en Azure.
 
 ![Logo_azure](/imagenes/procesos.jpg)
