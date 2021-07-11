@@ -44,7 +44,7 @@ Es por ello que **Azure** llega como una solución a todos esos problemas, si bi
 - [Servicios de almacenamiento](/apartado/almacenamiento.md)
 - [Servicios de base de datos](/apartado/databases.md)
 - [Internet de las cosas](/apartado/iot.md)
-- [Inteligencia Artificial]()
+- [Inteligencia Artificial](/apartado/ia.md)
 - [DevOps]()
 
 
