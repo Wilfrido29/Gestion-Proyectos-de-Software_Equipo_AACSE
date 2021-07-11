@@ -2,6 +2,7 @@
 
 Azure proporciona varios servicios de base de datos para almacenar una gran variedad de volúmenes y tipos de datos. Y con la conectividad global, los usuarios disponen de estos datos al instante.
 
+![Logo_azure](/imagenes/database.png)
 
 **Azure Cosmos DB**
 
