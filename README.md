@@ -41,8 +41,8 @@ Es por ello que **Azure** llega como una solución a todos esos problemas, si bi
 
 - [Servicios de procesos]()
 - [Servicios de red]()
-- [Servicios de almacenamiento]()
-- [Servicios de base de datos]()
+- [Servicios de almacenamiento](/apartado/almacenamiento.md)
+- [Servicios de base de datos](/apartado/databases.md)
 - [Servicios WEB]()
 - [Servicios Moviles]()
 - [Internet de las cosas]()
